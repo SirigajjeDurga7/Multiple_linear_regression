@@ -9,6 +9,7 @@
 }
 
 .card{
+    color : black;
     background-color: #ffffff;
     padding: 25px;
     border-radius: 16px;
@@ -41,3 +42,4 @@ div[data-testid="metric-container"]{
     color: #0f3f22;
     margin-top: 15px;
 }
+
